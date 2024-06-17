@@ -2,9 +2,6 @@
   <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/logoSonhaverso-removebg-preview.png" />
 </p>
 
-<h1 align="center">
-  <b>Sonhaverso</b>
-</h1>
 
 ## 🦾 DESAFIO 
 **Proposta para o trabalho final das disciplinas de Linguagens de Programação e Programação Orientada a Objetos - 3º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas:** Construir um SisVendas - Sistema de vendas de produtos (E-commerce).
@@ -54,23 +51,23 @@ O projeto foi construído utilizando uma arquitetura baseada no padrão MVC (Mod
 ## 🖼️ TELAS  
 - **Login:** 
 
-  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaLogin.png" width="200" height="400">
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaLogin.png" width="400" height="300">
 
 - **Cadastro:** 
 
-  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCadastro.png" width="200" height="400">
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCadastro.png" width="400" height="300">
 
 - **Vitrine:** 
 
-<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaVitrine.png"  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaVitrine.png"  width="400" height="300">
 
 - **Carrinho:** 
   
-<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCarrinho.png"  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCarrinho.png"  width="400" height="300">
 
 - **Pagamento:** 
 
-<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaPagamento.png"  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaPagamento.png"  width="400" height="300">
 
 
 ## 🚀 EXECUTANDO O PROJETO  
