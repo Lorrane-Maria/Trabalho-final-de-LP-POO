@@ -55,7 +55,7 @@ O projeto foi construído utilizando uma arquitetura baseada no padrão MVC (Mod
 
 - **Cadastro:** 
 
-  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCadastro.png" width="400" height="300">
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCadastro.png" width="400" height="400">
 
 - **Vitrine:** 
 
