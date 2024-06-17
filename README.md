@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/logoSonhaverso-removebg-preview.png" />
 </p>
 
 <h1 align="center">
@@ -29,7 +29,7 @@ O **Sonhaverso** é uma **livraria**, com objetivos de:
 - java.awt
 
 ## 📐 ARQUITETURA  
-O aplicativo foi construído utilizando uma arquitetura componentizada conforme estrutura abaixo:
+O projeto foi construído utilizando uma arquitetura baseada no padrão MVC (Model-View-Controller) conforme estrutura abaixo:
 - _src_
   - _Livraria_ (pacote principal)
     - _Controller_ (gerencia a regra de negócio e a comunicação entre a view e o model)
@@ -54,23 +54,23 @@ O aplicativo foi construído utilizando uma arquitetura componentizada conforme 
 ## 🖼️ TELAS  
 - **Login:** 
 
-  <img src="" width="200" height="400">
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaLogin.png" width="200" height="400">
 
 - **Cadastro:** 
 
-  <img src="" width="200" height="400">
+  <img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCadastro.png" width="200" height="400">
 
 - **Vitrine:** 
 
-<img src=""  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaVitrine.png"  width="200" height="400">
 
 - **Carrinho:** 
   
-<img src=""  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaCarrinho.png"  width="200" height="400">
 
 - **Pagamento:** 
 
-<img src=""  width="200" height="400">
+<img src="https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/blob/main/telaPagamento.png"  width="200" height="400">
 
 
 ## 🚀 EXECUTANDO O PROJETO  
@@ -92,7 +92,7 @@ Para rodar o projeto é necessário seguir os passos abaixo:
 
 `6. Ao retornar para tela de login acesse com email e senha cadastrada.`
 
-`7. Ao efetuar o login, será redirecionado a tela de vitrine onde podera ver os produtos cadastrados.`
+`7. Ao efetuar o login, será redirecionado a tela de vitrine onde poderá ver os produtos cadastrados.`
 
 `8. Selecione um livro, poderá escolher a quantidade de livro desejados limitando ao máximo existente no estoque.`
 
@@ -101,7 +101,10 @@ Para rodar o projeto é necessário seguir os passos abaixo:
 `10. Selecionando desistir, volta para tela de vitrine e selecionando finalizar compra é redirecionado a tela de pagamento.`
 
 `11. Na tela de pagamento, selecione o método de pagamento de desejado e ao clicar em pagar é concluido o fluxo.`
-    
+
+## Demo
+
+https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/assets/142905981/d1853e84-e303-4a3b-80b4-c738cca3590f
 
 ## 🧑‍💻 DESENVOLVEDORES  
 Lorrane Maria ([Linkedin](https://www.linkedin.com/in/lorrane-maria-5396b021b/)) / Contato: lorranemaria57@gmail.com
