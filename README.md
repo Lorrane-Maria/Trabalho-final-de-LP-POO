@@ -99,6 +99,10 @@ Para rodar o projeto é necessário seguir os passos abaixo:
 
 `11. Na tela de pagamento, selecione o método de pagamento de desejado e ao clicar em pagar é concluido o fluxo.`
 
+## Diagrama de classe
+
+![diagramaLivraria](https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/assets/142905981/19d34964-5cdb-4a52-8e1e-6d790b22e4de)
+
 ## Demo
 
 https://github.com/Lorrane-Maria/Trabalho-final-de-LP-POO/assets/142905981/d1853e84-e303-4a3b-80b4-c738cca3590f
